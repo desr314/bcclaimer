@@ -1,0 +1,9 @@
+{
+  "version": "6.52",
+  "update_url": "http://127.0.0.1/",
+  "critical": true,
+  "update_notes": "Major updates",
+  "features": [
+    "Stake Site codes changed, to be able to claim codes, you need to update the extension."
+  ]
+}
